@@ -7,3 +7,4 @@ def second_challenge
       :hero_friends => {}
 }
 end
+end
